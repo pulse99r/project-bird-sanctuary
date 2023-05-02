@@ -49,6 +49,7 @@ const birdData = [
     amount: 10000,
     id: 999,
   },
+  
   {
     img: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2014/07/14/15/MPP.jpg?w968h681",
     name: "Ex Parrot",

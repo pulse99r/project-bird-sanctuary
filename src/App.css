@@ -1,0 +1,27 @@
+.app-container{
+  border: 2px solid black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.aside{
+  border: 2px solid greenyellow;
+  display: flex;
+  flex-direction: column;
+  width: 254px;
+}
+.cart-container{
+  border: 2px solid blue;
+  width: 250px;
+}
+.checkout-container{
+  border: 2px solid red;
+  width: 250px;
+}
+.bird-card-container{
+  border: 2px solid gray;
+  display: flex;
+  min-width: 400px;
+  min-height: 3.5em;
+  /* flex-direction: row; */
+}
